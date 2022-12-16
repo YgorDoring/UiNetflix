@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">UiNetflix</string>
+    <string name="cast">Elenco: %1$s</string>
+    <string name="img_desc">Imagem de capa</string>
+    <string name="play">Play</string>
+    <string name="movie_txt_desc">Olá Mundo, como vai você hoje?lá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?</string>
+    <string name="similar">Opções Semelhantes</string>
 </resources>
