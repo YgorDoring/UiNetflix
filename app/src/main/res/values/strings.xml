@@ -5,4 +5,6 @@
     <string name="play">Play</string>
     <string name="movie_txt_desc">Olá Mundo, como vai você hoje?lá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?Olá Mundo, como vai você hoje?</string>
     <string name="similar">Opções Semelhantes</string>
+    <string name="message_error">Tente novamente mais tarde</string>
+    <string name="error_server">Erro de comunicação com servidor</string>
 </resources>

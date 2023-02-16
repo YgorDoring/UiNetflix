@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">UiNetflix</string>
+    <string name="message_error">Please, try again late</string>
+    <string name="error_server">Server error comunication</string>
 </resources>
